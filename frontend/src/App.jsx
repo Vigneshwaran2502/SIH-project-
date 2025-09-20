@@ -21,4 +21,3 @@ function App() {
 }
 
 export default App;
-```3.  **Save the file.**
